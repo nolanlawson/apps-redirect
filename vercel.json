@@ -1,0 +1,27 @@
+{
+  "github": {
+    "silent": true
+  },
+  "redirects": [
+    {
+      "source": "/imperial-calculator",
+      "destination": "https://imperialcalculator.nolanlawson.com",
+      "permanent": true
+    },
+    {
+      "source": "./relatedness-calculator",
+      "destination": "https://relatednesscalculator.nolanlawson.com",
+      "permanent": true
+    },
+    {
+      "source": "./japanese-name-converter",
+      "destination": "https://japanesenameconverter.nolanlawson.com",
+      "permanent": true
+    },
+    {
+      "source": "/",
+      "destination": "https://nolanlawson.com",
+      "permanent": false
+    }
+  ]
+}
