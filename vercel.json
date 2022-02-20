@@ -4,18 +4,18 @@
   },
   "redirects": [
     {
-      "source": "/imperial-calculator",
-      "destination": "https://imperialcalculator.nolanlawson.com",
+      "source": "/imperial-calculator/:path*",
+      "destination": "https://imperialcalculator.nolanlawson.com/:path*",
       "permanent": true
     },
     {
-      "source": "./relatedness-calculator",
-      "destination": "https://relatednesscalculator.nolanlawson.com",
+      "source": "./relatedness-calculator/:path*",
+      "destination": "https://relatednesscalculator.nolanlawson.com/:path*",
       "permanent": true
     },
     {
-      "source": "./japanese-name-converter",
-      "destination": "https://japanesenameconverter.nolanlawson.com",
+      "source": "./japanese-name-converter/:path*",
+      "destination": "https://japanesenameconverter.nolanlawson.com/:path*",
       "permanent": true
     },
     {
