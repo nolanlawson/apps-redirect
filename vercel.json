@@ -15,53 +15,21 @@
     },
     {
       "source": "/relatedness-calculator/",
-      "has":  [
-        {
-          "type": "query",
-          "key": "q"
-        },
-        {
-          "type": "query",
-          "key": "example"
-        }
-      ],
       "destination": "https://relatednesscalculator.nolanlawson.com/",
       "permanent": true
     },
     {
       "source": "/relatedness-calculator",
-      "has":  [
-        {
-          "type": "query",
-          "key": "q"
-        },
-        {
-          "type": "query",
-          "key": "example"
-        }
-      ],
       "destination": "https://relatednesscalculator.nolanlawson.com",
       "permanent": true
     },
     {
       "source": "/japanese-name-converter/",
-      "has":  [
-        {
-          "type": "query",
-          "key": "q"
-        }
-      ],
       "destination": "https://japanesenameconverter.nolanlawson.com/",
       "permanent": true
     },
     {
       "source": "/japanese-name-converter",
-      "has":  [
-        {
-          "type": "query",
-          "key": "q"
-        }
-      ],
       "destination": "https://japanesenameconverter.nolanlawson.com",
       "permanent": true
     },
