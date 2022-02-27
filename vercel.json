@@ -38,5 +38,15 @@
       "destination": "https://nolanlawson.com",
       "permanent": false
     }
+  ],
+  "rewrites": [
+    {
+      "source": "/jnameconverter-server/",
+      "destination": "https://jnameconverterapi.nolanlawson.com/JNameConverter/"
+    },
+    {
+      "source": "/jnameconverter-server",
+      "destination": "https://jnameconverterapi.nolanlawson.com/JNameConverter"
+    }
   ]
 }
