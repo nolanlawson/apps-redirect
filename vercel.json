@@ -24,6 +24,16 @@
       "permanent": true
     },
     {
+      "source": "/relatedness-calculator/index/",
+      "destination": "https://relatednesscalculator.nolanlawson.com/index/",
+      "permanent": true
+    },
+    {
+      "source": "/relatedness-calculator/index",
+      "destination": "https://relatednesscalculator.nolanlawson.com/index",
+      "permanent": true
+    },
+    {
       "source": "/japanese-name-converter/",
       "destination": "https://japanesenameconverter.nolanlawson.com/",
       "permanent": true
