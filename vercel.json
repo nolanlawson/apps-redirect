@@ -51,11 +51,11 @@
   ],
   "rewrites": [
     {
-      "source": "/jnameconverter-server/",
+      "source": "/jnameconverter-server/convert/",
       "destination": "https://jnameconverterapi.nolanlawson.com/JNameConverter/"
     },
     {
-      "source": "/jnameconverter-server",
+      "source": "/jnameconverter-server/convert",
       "destination": "https://jnameconverterapi.nolanlawson.com/JNameConverter"
     }
   ]
